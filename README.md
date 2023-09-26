@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Freelancer<br>👯 I’m looking to collaborate on TypeScript Based Projects <br>🤝 I’m looking for help with Machine learning🤖💻<br>🌱 I’m currently learning DSA 👀 and Competitive Programming 🧩<br>💬 Ask me about Web Development 🕸 | Automation | Open Source<br>⚡ Fun fact Anime Lover⛩️ | Love to play guitar🎸
+🔭 I’m currently working as Intern<br>👯 I’m looking to collaborate on TypeScript Based Projects <br>🤝 I’m looking for help with Machine learning🤖💻<br>🌱 I’m currently learning DSA 👀 and Competitive Programming 🧩<br>💬 Ask me about Web Development 🕸 | Automation | Open Source<br>⚡ Fun fact Anime Lover⛩️ | Love to play guitar🎸
 
 
 ## 🌐 Socials:
